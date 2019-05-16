@@ -1,0 +1,10 @@
+{% include 'partials/header.html' %}
+    <a href="/todos/add">Add</a>
+    <ul>
+        {% for todo in todos %}
+            <li><a href="/todos/details/{{todo.id}}">{{todo.title}}</a>:{{todo.text}} <input type="checkbox" name="finished" value="finished"></li> 
+        {% endfor %}
+    </ul>
+{%include 'partials/footer.html' %}
+        
+

@@ -1,0 +1,9 @@
+{% include 'partials/header.html' %}
+    <a href="/todos/delete/{{todo.id}}">DELETE</a>
+    <p>Title：{{todo.title}}</p>
+    <p>Text:{{todo.text}}</p>
+    <br>
+    (Created On {{todo.created_at}})
+    <br>
+    <a href="/todos">Go Back</a>
+{%include 'partials/footer.html' %}

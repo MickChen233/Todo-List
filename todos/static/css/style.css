@@ -1,0 +1,27 @@
+a {
+    color:green;
+    font-size:300%;
+}
+
+h1 {
+    text-align: center;
+    font-size:300%;
+}
+
+li {
+    font-size:200%;
+}
+
+p {
+    font-size:200%;
+}
+
+input[type="checkbox"]{
+    width: 30px; /*Desired width*/
+    height: 30px; /*Desired height*/
+    
+}
+
+label {
+    font-size:200%;
+}
