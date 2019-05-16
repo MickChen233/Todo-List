@@ -16,8 +16,12 @@ Finished:
 
 2.删除待办事项；
 ![image](https://github.com/MickChen233/Todo-List/blob/master/2.gif)
+
+
 3.勾选已完成;
 ![image](https://github.com/MickChen233/Todo-List/blob/master/3.gif)
+
+
 4.显示所有的待办事项。
 ![image](https://github.com/MickChen233/Todo-List/blob/master/4.gif)
 
